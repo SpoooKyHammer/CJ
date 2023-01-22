@@ -11,6 +11,6 @@ public class Main
 		int holder = num1;
 		num1 = num2;
 		num2 = holder;
-	    System.out.printf("Num1 = %d & Num2 = %d\n", num1, num2);
+	    	System.out.printf("Num1 = %d & Num2 = %d\n", num1, num2);
 	}
 }
