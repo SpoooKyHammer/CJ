@@ -4,9 +4,9 @@
 public class MyClass {
     public static void main(String args[]) {
       String text = "madam";
-      char frist = text.charAt(0);
+      char first = text.charAt(0);
       char last = text.charAt(text.length()-1);
-      boolean same = frist == last;
+      boolean same = first == last;
       System.out.println(same);
     }
 }
